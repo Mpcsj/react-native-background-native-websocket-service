@@ -1,0 +1,11 @@
+{
+  "name": "Estudo_cod_nativo",
+  "displayName": "Estudo_cod_nativo",
+  "packagerOpts": {
+    "config": "metro.config.js",
+    "sourceExts": ["js", "jsx", "svg"]
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ]
+}
